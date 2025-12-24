@@ -1,6 +1,8 @@
 # 💫 About Me:
-im currently a 2nd year bsit<br>my tech stacks are react js, express, node, vanilla js, html css, php, mysql, mongodb, <br>tools are tailwind css, shadcn ui, git, postman, figma<br>
-
+### 🎓 2nd Year BSIT Student
+I am a passionate Information Technology student focused on building scalable applications.
+- 🔭 I’m currently working on enhancing my **Full-Stack** skills.
+- 📚 Learning more about **System Designs**, **APIs**, **CI/CD**, and **Cloud & Infra**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@delatorregian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@delatorregian_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gian-carlo-de-la-torre-20451538b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giancarlo.delatorre.dev@gmail.com) 
@@ -15,10 +17,7 @@ im currently a 2nd year bsit<br>my tech stacks are react js, express, node, vani
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gcdelatorre&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=gcdelatorre&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gcdelatorre&icon=1&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
