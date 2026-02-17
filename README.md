@@ -3,7 +3,7 @@
 I am an Information Technology student focused on solving real-world problems by building scalable applications.
 - 🔭 Currently focusing in **MERN Full-Stack Development** skills, while strengthening my overall full-stack skills
 - 📚 Exploring **System Design**, **APIs**, **CI/CD**, and **Cloud & Infrastructure**
-
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/delatorregian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/delatorregian_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcdelatorre/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giancarlo.delatorre.dev@gmail.com) 
 
