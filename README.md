@@ -1,7 +1,7 @@
 # 💫 About Me:
-### 🎓 2nd Year BSIT Student
+### 🎓 3nd Year BSIT Student
 I am an Information Technology student focused on solving real-world problems by building scalable applications.
-- 🔭 Currently focusing in **MERN Full-Stack Development** skills, while strengthening my overall full-stack skills
+- 🔭 Currently focusing in **Full-Stack Development** skills.
 - 📚 Exploring **System Design**, **System Architecture**, **APIs**, **CI/CD**, and **Cloud & Infrastructure**
  
 ## 🌐 Socials:
